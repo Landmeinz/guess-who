@@ -16,15 +16,19 @@ var people = [
     githubUsername: 'kdszafranski'
   },
   {
-    name: 'Edan',
-    githubUsername: 'eschwartz'
+    name: 'julia',
+    githubUsername: 'JuliaBayless'
   },
   {
-    name: 'Liz',
-    githubUsername: 'emkerber'
+    name: 'Jack',
+    githubUsername: 'Thirteenhelens',
   },
   {
-    name: 'Chris',
-    githubUsername: 'christopher-black'
+    name: 'Eric',
+    githubUsername: 'Landmeinz',
   },
+  {
+    name: 'Katherine',
+    githubUsername: 'KatherineDaugherty',
+  }
 ];
